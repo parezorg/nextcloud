@@ -1,6 +1,6 @@
 ### Script for install Nextcloud into Docker.
 
-The file must be named **docker-compose.yml** !!!
+The file must be named "**docker-compose.yml**" !!!
 
 Create and start containers:
 ```bash
